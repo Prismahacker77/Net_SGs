@@ -1,2 +1,2 @@
-# Net_SGs
+# SA-sg
 Detect and list SG configurations
