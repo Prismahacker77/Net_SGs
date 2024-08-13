@@ -1,2 +1,2 @@
 # Net_SGs
-Allow on SG nonos
+Detect and list SG configurations
